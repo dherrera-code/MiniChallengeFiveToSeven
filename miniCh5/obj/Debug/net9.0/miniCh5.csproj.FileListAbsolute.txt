@@ -145,3 +145,4 @@ C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC5\miniCh5\
 C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC5\miniCh5\obj\Debug\net9.0\miniCh5.pdb
 C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC5\miniCh5\obj\Debug\net9.0\miniCh5.genruntimeconfig.cache
 C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC5\miniCh5\obj\Debug\net9.0\ref\miniCh5.dll
+C:\Users\elect\OneDrive\Documents\CodeStack\Level2\Homework\HerreraDMC5\miniCh5\obj\Debug\net9.0\miniCh5.sourcelink.json
