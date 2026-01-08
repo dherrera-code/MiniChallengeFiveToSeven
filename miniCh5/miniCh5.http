@@ -1,0 +1,6 @@
+@miniCh5_HostAddress = http://localhost:5193
+
+GET {{miniCh5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
