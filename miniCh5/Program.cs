@@ -9,6 +9,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<OddOrEvenService>();
 builder.Services.AddScoped<ReverseItService>();
+builder.Services.AddScoped<ReverseItNumsOnlyService>();
 
 var app = builder.Build();
 
