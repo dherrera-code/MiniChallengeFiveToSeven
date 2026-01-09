@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("miniCh5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f6c45675ee539953eff22215fb33d397b764d7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88d42a30e334265a463c22df0a6837673a0601e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("miniCh5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("miniCh5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
