@@ -18,7 +18,7 @@ namespace miniCh5.Controllers
             _reverseItAlphaNum = reverseItAlphaNum;
         }
 
-        [HttpPost("ReverseItAlphaNum/{sequence}")]
+        [HttpPost("/{sequence}")]
         public string ReverseIt(string sequence)
         {
             return _reverseItAlphaNum.ReverseItAlphaNum(sequence);
